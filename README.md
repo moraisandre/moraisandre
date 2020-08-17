@@ -3,7 +3,7 @@
 ## My name is André Morais!
 * Senior Developer at [Sinqia][sinqia]
 * Brazilian
-* My currently goals: study more about DevOps and improve my Angular skills
+* My currently goals: study more DevOps and improve my Angular skills
 
 ## GitHub Status
 
