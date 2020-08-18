@@ -2,10 +2,10 @@
 
 ## My name is André Morais!
 * Senior Developer at [Sinqia][sinqia]
-* Brazilian
+* Brazilian <img alt="Brazil" width="22px" src="icons/brazil-flag.svg" />
 * My currently goals: study more DevOps and improve my Angular skills
 
-## GitHub Status
+### GitHub Status
 
 ![André Morais' github stats](https://github-readme-stats.vercel.app/api?username=moraisandre&show_icons=true&hide_border=true&theme=vue)
 
@@ -14,9 +14,9 @@
 ### Connect with me:
 
 [<img alt="Website" width="22px" src="http://moraisandre.com/wp-content/uploads/2017/10/dr-logo-squared.png" />][website]
-[<img alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" sytle="svg {fill: #333}"/>][twitter]
-[<img alt="Stack Overflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stackoverflow]
-[<img alt="Stack Overflow" width="22px" src="https://static.sketchfab.com/img/press/logos/logo-black.png" />][sketchlab]
+[<img alt="Twitter" width="22px" src="icons/twitter.svg"/>][twitter]
+[<img alt="Stack Overflow" width="22px" src="icons/stackoverflow.svg" />][stackoverflow]
+[<img alt="Sketchfab" width="22px" src="icons/sketchfab.svg" />][sketchfab]
 
 ### Here is some of my published apps and Chrome extensions:
 
@@ -32,7 +32,7 @@
 [website]: http://moraisandre.com/
 [twitter]: https://twitter.com/moraisandre
 [stackoverflow]: https://stackoverflow.com/users/3475929/moraisandre
-[sketchlab]: https://sketchfab.com/moraisandre
+[sketchfab]: https://sketchfab.com/moraisandre
 [sinqia]: https://www.sinqia.com.br/
 
 [spellbookApp]: https://apps.apple.com/us/app/spellbook-for-tibia/id948790782
