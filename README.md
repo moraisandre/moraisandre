@@ -2,7 +2,7 @@
 
 ## My name is André Morais!
 * Senior Developer at [Sinqia][sinqia]
-* Brazilian <img alt="Brazil" width="22px" src="./icons/brazil-flag.svg" />
+* Brazilian <img alt="Brazil" width="22px" src="https://raw.githubusercontent.com/moraisandre/moraisandre/04d48ea7ed04d0f353c955d4a7742681b9b9d449/icons/brazil-flag.svg" />
 * My currently goals: study more DevOps and improve my Angular skills
 
 ### GitHub Status
@@ -14,9 +14,9 @@
 ### Connect with me:
 
 [<img alt="Website" width="22px" src="http://moraisandre.com/wp-content/uploads/2017/10/dr-logo-squared.png" />][website]
-[<img alt="Twitter" width="22px" src="./icons/twitter.svg"/>][twitter]
-[<img alt="Stack Overflow" width="22px" src="./icons/stackoverflow.svg" />][stackoverflow]
-[<img alt="Sketchfab" width="22px" src="./icons/sketchfab.svg" />][sketchfab]
+[<img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/moraisandre/moraisandre/04d48ea7ed04d0f353c955d4a7742681b9b9d449/icons/twitter.svg"/>][twitter]
+[<img alt="Stack Overflow" width="22px" src="https://raw.githubusercontent.com/moraisandre/moraisandre/04d48ea7ed04d0f353c955d4a7742681b9b9d449/icons/stackoverflow.svg" />][stackoverflow]
+[<img alt="Sketchfab" width="22px" src="https://raw.githubusercontent.com/moraisandre/moraisandre/04d48ea7ed04d0f353c955d4a7742681b9b9d449/icons/sketchfab.svg" />][sketchfab]
 
 ### Here is some of my published apps and Chrome extensions:
 
